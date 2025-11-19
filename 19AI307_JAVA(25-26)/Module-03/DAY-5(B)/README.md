@@ -53,7 +53,9 @@ public class Main {
 ```
 
 ## OUTPUT:
+<img width="1223" height="414" alt="image" src="https://github.com/user-attachments/assets/a42ca03e-74f6-490b-88ee-24f41dbc7e04" />
 
 
 ## RESULT:
 The program successfully converts strings to integers and displays their sum.
+
