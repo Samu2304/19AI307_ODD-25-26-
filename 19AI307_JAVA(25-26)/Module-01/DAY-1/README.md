@@ -87,4 +87,3 @@ public class prog
 ## RESULT:
 Thus, the Java program demonstrating print(), println(), and printf() with user inputs executed successfully and produced the expected output.
 
-
