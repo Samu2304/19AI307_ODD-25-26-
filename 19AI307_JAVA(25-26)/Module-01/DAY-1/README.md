@@ -41,10 +41,15 @@ To help beginners understand how output formatting works in Java.
 
 ## ALGORITHM :
 1.Read the user’s name as a String.
+
 2.Read the user’s age as an int.
+
 3.Read the user’s favorite decimal number as a float.
+
 4.Use System.out.print() to display a greeting message with the name on the same line.
+
 5.Use System.out.println() to display the age, moving to the next line.
+
 6.Use System.out.printf() to display the favorite number formatted to 2 decimal places.
 
 
@@ -81,3 +86,4 @@ public class prog
 
 ## RESULT:
 Thus the java program executed successfully.
+
