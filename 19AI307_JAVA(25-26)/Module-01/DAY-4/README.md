@@ -1,4 +1,4 @@
-# Ex.No:1(D) ARRAYS
+<img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/ebc38ad8-e4d9-45fd-8fe7-be108306b4ef" /># Ex.No:1(D) ARRAYS
 
 ## QUESTION:
 Write a Java Program to Find the Average of Array Elements.
@@ -63,5 +63,7 @@ public class ArrayAverage {
 <img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/bb0ae6fa-a67e-4fe3-9c7a-2c6f75dac1a9" />
 
 ## RESULT:
-<img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/3289d006-e0f0-47da-8ca7-d5a8271e31ad" />
+Thus, the Java program to calculate the average of array elements was successfully executed, and the output was verified to produce the correct average value.
+
+
 
