@@ -85,5 +85,6 @@ public class prog
 <img width="735" height="372" alt="image" src="https://github.com/user-attachments/assets/ca4dd429-8007-48e5-a4a8-ceeeae7e250d" />
 
 ## RESULT:
-Thus the java program executed successfully.
+Thus, the Java program demonstrating print(), println(), and printf() with user inputs executed successfully and produced the expected output.
+
 
